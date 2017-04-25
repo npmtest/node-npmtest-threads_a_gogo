@@ -1,6 +1,6 @@
 # npmtest-threads_a_gogo
 
-#### test coverage for  [threads_a_gogo (v0.1.13)](https://github.com/xk/node-threads-a-gogo)  [![npm package](https://img.shields.io/npm/v/npmtest-threads_a_gogo.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-threads_a_gogo) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-threads_a_gogo.svg)](https://travis-ci.org/npmtest/node-npmtest-threads_a_gogo)
+#### basic test coverage for  [threads_a_gogo (v0.1.13)](https://github.com/xk/node-threads-a-gogo)  [![npm package](https://img.shields.io/npm/v/npmtest-threads_a_gogo.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-threads_a_gogo) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-threads_a_gogo.svg)](https://travis-ci.org/npmtest/node-npmtest-threads_a_gogo)
 
 #### ██ Simple and fast JavaScript threads for Node.js ██
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-threads_a_gogo/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-threads_a_gogo/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-threads_a_gogo/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-threads_a_gogo/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-threads_a_gogo/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-threads_a_gogo/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-threads_a_gogo/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-threads_a_gogo/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-threads_a_gogo/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-threads_a_gogo/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-threads_a_gogo/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-threads_a_gogo/build/coverage.html/index.html)
 
@@ -112,7 +112,8 @@
             },
             "pkgid": "threads_a_gogo@0.1.13"
         }
-    ]
+    ],
+    "bin": {}
 }
 ```
 
